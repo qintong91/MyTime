@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F0F0" 
+        
+    android:orientation="vertical" >
+<LinearLayout  
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"  
+    android:layout_marginTop="20dp" 
+    android:layout_marginBottom="20dp" 
+    android:orientation="vertical"
+    android:background="@drawable/app_list_corner_round" 
+     >
+    <TextView  
+        android:layout_marginTop="20dp" 
+    android:id="@+id/text1"  
+    android:layout_width="wrap_content"  
+    android:layout_height="wrap_content"  
+    android:textColor="#000000"  
+    android:lineSpacingExtra="5dp"
+        android:textSize="18sp"
+         
+    android:text="  本应用针对校园内用户，提供基于定位的时间统计和总结功能。为用户提供行动轨迹反馈和多种时间统计。\n  由于现阶段该应用只针对本校校园使用，为方便大赛评委查看统计效果，我们在应用中写入了一部分我们之前采集的数据。  " 
+    />  
+
+</LinearLayout>
+</RelativeLayout>

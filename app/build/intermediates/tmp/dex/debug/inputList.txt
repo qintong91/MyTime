@@ -1,0 +1,15 @@
+D:\androidCode\workspace\MyTime1\app\build\intermediates\classes\debug
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-418d46afe3423689b721b3b8f9a7e91fbe08c1c5.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\ezmorph-1.0.6-710f5fb3be11366e8197f3b946b822959f65168b.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-logging-1.1-0fd3366c2e6c4417a06d051bbfb9890dcdea3dc9.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4803942122caa4eb297e296ab038106ad3bee7eb.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\locSDK_3.1-d0f2e5c9ee11832f4b45ad955442578b7dc75bd9.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\xom-1.0-63452c2fe4b96ba525b7f1926a5b644a79bdad50.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-39723e734a8c63a2fda5c515c314a82f75b263dd.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\json-lib-2.4-jdk15-98a36b1995e696cc773df3b11ed4586e9e10a568.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-beanutils-1.7-8ce0dee4c3ca126d42bcf59ec7b406c22798e0c9.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-lang-2.3-a4be7fa5b9c2e75a276c94cb125aeae5418bf2b2.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\classes-2efbdc0e8154424a39061ec6e1262f961179f043.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-collections-3.2-ef45be13066d5806c8ac926e7a45d9a155491464.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\classes-6558fae0a0f33005f6b721f7d15cdad56fd7659e.jar
+D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_0_0-9d7174fc762d5ed376524cc7718126f7f8df58d9.jar

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-sdks\android-sdks\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-418d46afe3423689b721b3b8f9a7e91fbe08c1c5.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-39723e734a8c63a2fda5c515c314a82f75b263dd.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\commons-logging-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba24d5de831911b684c92cd289ed5ff826271824">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-logging-1.1-0fd3366c2e6c4417a06d051bbfb9890dcdea3dc9.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\commons-beanutils-1.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96663d45bfad30a609c6834cdb7d2c73fa871595">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-beanutils-1.7-8ce0dee4c3ca126d42bcf59ec7b406c22798e0c9.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\classes-6558fae0a0f33005f6b721f7d15cdad56fd7659e.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\commons-collections-3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f951934aa5ae5a88d7e6dfaa6d32307d834a88be">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-collections-3.2-ef45be13066d5806c8ac926e7a45d9a155491464.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\baidumapapi_v3_0_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_0_0-9d7174fc762d5ed376524cc7718126f7f8df58d9.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\ezmorph-1.0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01e55d2a0253ea37745d33062852fd2c90027432">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\ezmorph-1.0.6-710f5fb3be11366e8197f3b946b822959f65168b.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\locSDK_3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09224a1883da8b5bd37e766f4fab80570d879898">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\locSDK_3.1-d0f2e5c9ee11832f4b45ad955442578b7dc75bd9.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\json-lib-2.4-jdk15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="136743e0d12df4e785e62b48618cee169b2ae546">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\json-lib-2.4-jdk15-98a36b1995e696cc773df3b11ed4586e9e10a568.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4803942122caa4eb297e296ab038106ad3bee7eb.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\classes-2efbdc0e8154424a39061ec6e1262f961179f043.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\commons-lang-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0eecdac8c86bc84b4bdfc24371ba8c785a1fc552">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\commons-lang-2.3-a4be7fa5b9c2e75a276c94cb125aeae5418bf2b2.jar" />
+    </item>
+    <item
+        jar="D:\androidCode\workspace\MyTime1\app\libs\xom-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a7149f7d15f704b95cb6002609f485ca3e580d4">
+        <dex dex="D:\androidCode\workspace\MyTime1\app\build\intermediates\pre-dexed\debug\xom-1.0-63452c2fe4b96ba525b7f1926a5b644a79bdad50.jar" />
+    </item>
+
+</items>

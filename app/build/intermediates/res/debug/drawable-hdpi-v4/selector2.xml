@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+ <item android:state_pressed="true">  
+     <shape android:shape= "oval">
+            <!-- 渐变 -->            
+            <gradient
+                android:startColor="#ff8c00"
+                android:endColor="#FFFFFF"
+                                  />
+            
+            <!-- 圆角 -->
+            <corners
+                android:radius="2dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+      </item>
+ <item android:state_pressed="false">
+      <shape android:shape= "oval">
+            <gradient
+                android:startColor="#33ffff"
+                android:endColor="#3366ff"
+                android:angle="270" />
+            
+            <corners
+                android:radius="2dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+  </item>    
+
+</selector>
+<!-- From: file:/D:/androidCode/workspace/MyTime1/app/src/main/res/drawable-hdpi/selector2.xml -->
